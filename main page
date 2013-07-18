@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head> <link rel="stylesheet" type="text/css" href="Style.css"/>  <title> Jazzy Jadez Hair </title> </head>
+<body>
+<div id= "header"> Classic Salon at Home Hairdo's</div>
+<div id= "leftcolumn">  
+  <a href="Jaxxy.html">Home</a><br>
+	<a href="Abouthair.html">About</a><br>
+	<a href=""> Portfolio</a><br>
+	<a href=""> Contact</a> <br>
+	</div>
+<div id= "maincontent"> Take a look at my hairstyles. I have built a nice sized clientelle over the last 4 years. I have taken classes to learn this art.You have to be gifted and blessed with the hands to do the work of art that i do.This is my work and i hope you like it</div>
+<div id= "footer"> To contact me send me a message on facebook  </div>
+
+
+
+</body>
+</html>
