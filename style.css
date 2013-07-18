@@ -1,22 +1,23 @@
-body {background-image:url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFyoaiMMb6THCJC535MpF_C58s2W3Fwrr6y3oYYTcHr1plhHNI");}
+body {background-image:url("http://g1wallz.com/wp-content/uploads/wallz/7519/katespade1.png");}
 #header {
-  background-color:black; 
+	background-color:tan; 
 	width:100%;
-	min-height:100px; }
+	min-height:120px; }
 	#leftcolumn{
-	background-color:black; 
-	width:33%; 
-	min-height:400px;
-	float:left 
+	background-color:tan; 
+	width:25%; 
+	min-height:1050px;
+	float:left;
+
 	}
 #maincontent { 
-background-color:black;
+background-color:tan;
  width:67%;
- min-height:400px; 
- float:left
+ min-height:900px; 
+ float:right;
 }
 #footer {
-background-color:black; 
+{background-color:tan;} 
 width:100%; 
-min-height:100px;
+min-height:900px;
 clear:both; }
