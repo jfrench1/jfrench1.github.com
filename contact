@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head> <link rel="stylesheet" type="text/css" href="Style.css"/>  <title> Jazzy Jadez Hair </title> </head>
+<body>
+<div id= "header"> <h1 style="font-family:princetown let;color:lightgreen;font-size:80px;"> Contact Me </h1> </div>
+<div id= "leftcolumn">  
+  <a href="Jaxxy.html">Home</a><br>
+	<a href=" Abouthair.html ">About</a><br>
+	<a href="portfolio.html"> Portfolio</a><br>
+	<a href="Contant.html"> Contact</a><br>
+	</div>
+<div id= "maincontent"> 
+	<p> <img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-frc1/314441_4359282185369_687021930_n.jpg"/> </p>
+		First name: <input type="text" name="firstname"><br>
+		Last name: <input type="text" name="lastname">
+		</form></p>
+		<form>
+		Email: <input type="password" name="pwd">
+		</form><form>
+		Phone number: <input type="password" name="pwd">
+		</form>
+		
+		Send a message
+		<p>	<textarea rows="4" cols="50">
+
+			</textarea></p>
+		
+		<form>
+		<input type="submit" value="Submit">
+		</form>
+		<p>
+	 </div>
+<div id= "footer"> @jade inc.  </div>
+
+
+
+</body>
+</html>
