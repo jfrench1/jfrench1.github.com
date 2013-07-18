@@ -2,17 +2,23 @@
 <html>
 <head> <link rel="stylesheet" type="text/css" href="Style.css"/>  <title> Jazzy Jadez Hair </title> </head>
 <body>
-<div id= "header"> My hair Journey </div>
+<div id= "header">  <h1 style="font-family:princetown let;color:lightgreen;font-size:80px;"> About Me </h1> </div>
 <div id= "leftcolumn">  
-  <a href="Jaxxy.html">Home</a><br>
+	<a href="Jaxxy.html">Home</a><br>
 	<a href=" Abouthair.html ">About</a><br>
-	<a href=""> Portfolio</a><br>
-	<a href=""> Contact</a><br>
+	<a href="portfolio.html"> Portfolio</a><br>
+	<a href="Contant.html"> Contact</a><br>
 	</div>
-<div id= "maincontent"> I've been doing hair since 7th grade......................................................... </div>
-<div id= "footer"> To contact me send me a message on facebook  </div>
+<div id= "maincontent">
+	<p>My name is Jade Cross-French, I am a 18 year old hair stylist and I am also learning to code computers and i have many other talents and skills.</p>
+	
+<img src="https://sphotos-a.xx.fbcdn.net/hphotos-ash4/1002858_10201443173306397_81981382_n.jpg" alt="Just graduated"> 
+	<p>
+
+	</p>
+</div>
+<div id= "footer"> @jade inc.  </div>
 
 
 
 </body>
-</html>
