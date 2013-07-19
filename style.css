@@ -16,8 +16,8 @@ background-color:tan;
  min-height:900px; 
  float:right;
 }
+
 #footer {
-background-color:tan;
 width:100%; 
-min-height:900px;
+min-height:100px;
 clear:both; }
