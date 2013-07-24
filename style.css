@@ -1,17 +1,17 @@
 body {background-image:url("http://g1wallz.com/wp-content/uploads/wallz/7519/katespade1.png");}
 #header {
-	background-color:tan; 
+	background-color:hotpink; 
 	width:100%;
 	min-height:120px; }
 	#leftcolumn{
-	background-color:tan; 
+	background-color:hotpink; 
 	width:25%; 
 	min-height:1050px;
 	float:left;
 
 	}
 #maincontent { 
-background-color:tan;
+background-color:hotpink;
  width:67%;
  min-height:900px; 
  float:right;
